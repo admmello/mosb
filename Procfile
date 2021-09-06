@@ -1,0 +1,1 @@
+web: gunicorn mosb.wsgi --log-file -
